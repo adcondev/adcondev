@@ -9,6 +9,6 @@
 
 <div align="center">
     <a href="https://github.com/adcondev" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adcondev&langs_count=10&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&locale=en&layout=compact&hide=html" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adcondev&langs_count=10&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&locale=en&layout=compact" alt="Top Languages" />
     </a>
 </div>
